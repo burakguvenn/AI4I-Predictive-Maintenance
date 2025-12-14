@@ -32,12 +32,12 @@ The **Random Forest** model outperformed the baseline with superior accuracy and
 ### Confusion Matrix (Random Forest)
 The model successfully identifies the majority of machine failures with low false negatives.
 
-![Confusion Matrix](confusion_matrix_rf.png)
+![Confusion Matrix](confusion-matrix.png)
 
 ### Feature Importance
 The analysis revealed that **Torque** and **Rotational Speed** are the most critical factors leading to machine failure.
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature-importance.png)
 
 ##  How to Run
 1. Clone the repository:
