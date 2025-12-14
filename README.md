@@ -66,5 +66,3 @@ The analysis revealed that **Torque** and **Rotational Speed** are the most crit
     [2] Breiman, L. (2001). Random Forests. Machine Learning.
 
     [3] Scikit-learn: Machine Learning in Python.
-
-Author: [Burak]
